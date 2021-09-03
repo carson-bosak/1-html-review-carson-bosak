@@ -1,8 +1,14 @@
 .myHeader {
-    border-bottom: 2px outset rgb(30, 127, 253);
+    background-color: red;
+    border-bottom: 2px outset rgb(238, 238, 238);
     text-align: Center;
-    margin-bottom: 15px;
+    color: white;
   }
 #circular--square {
     border-radius: 50%;
   }
+.myBody {
+    background-color: rgb(238, 238, 238);
+    padding-top: 15px;
+    color: rgb(27, 27, 27);
+}

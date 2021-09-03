@@ -1,4 +1,8 @@
-.myDiv {
-    text-align: left;
-    margin-left: 10px;
+.myHeader {
+    border-bottom: 2px outset rgb(30, 127, 253);
+    text-align: Center;
+    margin-bottom: 15px;
+  }
+#circular--square {
+    border-radius: 50%;
   }
